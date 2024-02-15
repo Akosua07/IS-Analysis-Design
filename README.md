@@ -1,1 +1,1 @@
-These files contain lab assignments demonstrate the practical application of course concepts using various. 
+These files contain lab assignments demonstrating the practical application of course concepts using various. 
